@@ -1,7 +1,5 @@
 # Project Name: Symphony E-Commerce Platform
 
-Welcome to Symphony, an immersive e-commerce website that brings harmony to your online shopping experience. With a sophisticated blend of cutting-edge technologies, including ReactJS and NodeJS, Symphony delivers a seamless, user-friendly interface coupled with powerful features to cater to your shopping needs.
-
 **Key Features:**
 
 1. **Intuitive Cart Section:** Easily manage your selections with our intuitive cart system. Add, remove, or update items in your cart effortlessly, ensuring a hassle-free shopping experience.
