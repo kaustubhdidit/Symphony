@@ -1,5 +1,5 @@
 # Project Name: Symphony E-Commerce Platform
-
+![MasterHead](https://github.com/kaustubhdidit/Symphony/blob/main/client/src/assets/Screenshot%202023-08-27%20at%208.33.58%20PM.png)
 **Key Features:**
 
 1. **Intuitive Cart Section:** Easily manage your selections with our intuitive cart system. Add, remove, or update items in your cart effortlessly, ensuring a hassle-free shopping experience.
